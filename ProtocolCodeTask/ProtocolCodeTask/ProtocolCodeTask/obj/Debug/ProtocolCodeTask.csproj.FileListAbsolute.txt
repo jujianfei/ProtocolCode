@@ -1,0 +1,9 @@
+C:\Users\jujianfei\Desktop\VSDemo\ProtocolCodeTask\ProtocolCodeTask\ProtocolCodeTask\bin\Debug\ProtocolCodeTask.exe.config
+C:\Users\jujianfei\Desktop\VSDemo\ProtocolCodeTask\ProtocolCodeTask\ProtocolCodeTask\bin\Debug\ProtocolCodeTask.exe
+C:\Users\jujianfei\Desktop\VSDemo\ProtocolCodeTask\ProtocolCodeTask\ProtocolCodeTask\bin\Debug\ProtocolCodeTask.pdb
+C:\Users\jujianfei\Desktop\VSDemo\ProtocolCodeTask\ProtocolCodeTask\ProtocolCodeTask\obj\Debug\ProtocolCodeTask.csprojResolveAssemblyReference.cache
+C:\Users\jujianfei\Desktop\VSDemo\ProtocolCodeTask\ProtocolCodeTask\ProtocolCodeTask\obj\Debug\ProtocolCodeTask.Form1.resources
+C:\Users\jujianfei\Desktop\VSDemo\ProtocolCodeTask\ProtocolCodeTask\ProtocolCodeTask\obj\Debug\ProtocolCodeTask.Properties.Resources.resources
+C:\Users\jujianfei\Desktop\VSDemo\ProtocolCodeTask\ProtocolCodeTask\ProtocolCodeTask\obj\Debug\ProtocolCodeTask.csproj.GenerateResource.Cache
+C:\Users\jujianfei\Desktop\VSDemo\ProtocolCodeTask\ProtocolCodeTask\ProtocolCodeTask\obj\Debug\ProtocolCodeTask.exe
+C:\Users\jujianfei\Desktop\VSDemo\ProtocolCodeTask\ProtocolCodeTask\ProtocolCodeTask\obj\Debug\ProtocolCodeTask.pdb
